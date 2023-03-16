@@ -124,10 +124,11 @@ h2 {
   padding: 0 3rem;
 }
 
-#video-section {
+.video-div {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 #video {
@@ -135,7 +136,6 @@ h2 {
   width: 100%;
   height: 315px;
 }
-
 
 #price {
   margin-top: 60px;
